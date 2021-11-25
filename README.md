@@ -6,6 +6,8 @@
 Ceci est un projet portant sur la creation d'un site web de Quizz biologique pour l’identification des images de microscopie.
 L’utilisateur à le choix de séléctionner le quizz voulu, deux pour le moment, (reconnaitre des types de microscopie ou le type cellulaire présenté).
 
+![Screenshot from 2021-11-25 10-45-50](https://user-images.githubusercontent.com/77233864/143421649-4aefe5a5-861a-43f3-8914-c5293611dd9b.png)
+
 Les images ainsi que leurs informations sont récupérés depuis le site de *Cell Image Library* (http://www.cellimagelibrary.org/home)
 
 ##### Qu'attendez vous, allez-y sur le site et voyant quel est votre score et votre niveau ! 
